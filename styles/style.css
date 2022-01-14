@@ -1,0 +1,33 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: 'Roboto', sans-serif; /* this should be the rest of the output you got from Google fonts */
+  }
+
+body {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+  }
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  }
+
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+
+img {
+  width:100%;
+  height:auto;
+  max-width: 50vw;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
